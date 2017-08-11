@@ -1,0 +1,10 @@
+create class Country_City extends V
+create class ScenicSpot extends V
+create class User extends V
+
+
+create class City_ScenicSpot_Rank extends E
+create class Comment_by extends E
+
+
+
